@@ -1,4 +1,5 @@
-﻿# EC360-A2 â€” QuickCart Microservices
+# EC360-A2 - QuickCart
+Microservices
 
 EC360 Software Engineering, Assignment 2 (individual): Agile Scrum lifecycle, Git feature-branch workflow and Jira + GitHub integration.
 
